@@ -4,13 +4,40 @@ Esse arquivo tem o intuito de servir de controle para minha pós em DevOps dentr
 
 ## Disciplinas
 
-- [ ] Disciplina 1
-    - [ ] Máteria 1
-- [ ] Disciplina 1
-    - [ ] Máteria 1
-- [ ] Disciplina 1
-    - [ ] Máteria 1
-
+- [ ] Programação Orientada a Objetos em C++
+    - [ ] Fundamentos da Linguagem C++
+    - [ ] Introdução a Orientação a Objetos em C++
+    - [ ] Herança em C++
+    - [ ] Polimorfismo em C++
+- [ ] Projetos de Software: Buscando Entregas de Sucesso
+    - [ ] Qualidade de Software
+    - [ ] Fases do Desenvolvimento de Software
+    - [ ] Gerenciamento de Configurações
+    - [ ] Controle de Versionamento
+    - [ ] Teste de Software
+    - [ ] Projeto Ágil
+- [ ] Nivelamento em Programação de Computadores
+    - [ ] Solução de Problemas e Pensamento Computacional
+    - [ ] Estrutura Básica de um Programa em Python
+    - [ ] Estruturas de Decisão e de Repetição em Python
+    - [ ] Modularização e Uso de Bibliotecas de Python
+    - [ ] Estruturas de Dados Básicas do Python
+    - [ ] Python Orientado a Objetos
+- [ ] Gerenciamento Ágil e Devops
+    - [ ] Projetos e a Organização
+    - [ ] Projeto Ágil
+    - [ ] Práticas Gerenciais Com Scrum
+    - [ ] Frameworks Para Métodos Ágeis no Pmbok
+    - [ ] Fundamentos Devops
+    - [ ] Devops na Prática
+- [ ] Linux: Fundamentos e Automatização de Tarefas
+    - [ ] Instalação e Ajustes ao Sistema Operacional Linux
+    - [ ] Administração e Configurações Essenciais de Sistemas Operacionais Linux
+    - [ ] Administração e Configurações Avançadas de Sistemas Operacionais Linux
+    - [ ] Controle de Acesso e Compartilhamento de Arquivos em Linux
+    - [ ] Automatizando Tarefas no Linux
+    - [ ] Linux Para Devops
+        
 ## Provas
 
 Prazo para realizacao 28/09
