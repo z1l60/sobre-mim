@@ -1,0 +1,26 @@
+# Dependências e gerados pelo Jekyll / GitHub Pages
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporários de Editores e IDEs (VS Code, Obsidian, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.obsidian/
+
+# Logs e arquivos temporários gerais
+*.log
+.tmp/
+temp/
