@@ -12,13 +12,13 @@ Github Actions
 
 ### AWS
 
-EKS
-EC2
-ECS
-S3
-IAM
-Secrets Manager
-Redes(VPC, Subnets, SGs)
+EKS. 
+EC2. 
+ECS. 
+S3. 
+IAM. 
+Secrets Manager. 
+Redes(VPC, Subnets, SGs). 
 
 ## IAC
 
