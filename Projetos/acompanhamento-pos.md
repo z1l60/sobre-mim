@@ -5,8 +5,18 @@ Esse arquivo tem o intuito de servir de controle para minha pós em DevOps dentr
 ## Disciplinas
 
 - [ ] Programação Orientada a Objetos em C++
-    - [ ] Fundamentos da Linguagem C++
+    - [x] Fundamentos da Linguagem C++
+      - [x] Introdução
+      - [x] Módulo 1
+      - [x] Módulo 2
+      - [x] Módulo 3
+      - [x] Módulo 4
     - [ ] Introdução a Orientação a Objetos em C++
+        - [ ] Introdução
+        - [ ] Módulo 1
+        - [ ] Módulo 2
+        - [ ] Módulo 3
+        - [ ] Módulo 4
     - [ ] Herança em C++
     - [ ] Polimorfismo em C++
 - [ ] Projetos de Software: Buscando Entregas de Sucesso
