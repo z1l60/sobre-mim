@@ -7,7 +7,7 @@
 - [ ] Senior 2030
 - [ ] Especialista 2035
 
-## Formação Academia
+## Formação Academica
 
 - [x] Graduação - Analise e Desenvolvimento de Sistemas
 - [ ] Pós-Graduação - DevOps
