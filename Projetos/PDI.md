@@ -16,7 +16,9 @@
 
 ### AWS
 
-- [ ] AWS Cloud Practitioner - 2023
+- [ ]Practitioner
+  - [x] AWS Cloud Practitioner - 2023
+  - [ ] AWS AI Practitioner
 - [ ] Associate
   - [ ] AWS CloudOps Engineer
   - [ ] AWS Solutions Architect
@@ -27,14 +29,24 @@
   - [ ] Security
   - [ ] Advanced Networking
 
-### Kubernetes
+### Kubernetes(CNCF)
 
-- [ ]
+- [ ] CKA(Certified Kubernetes Administrator)
 
-### Linux
+### Linux (Linux Professional Institute
 
-- [ ]
+- [ ] LPIC 1
+- [ ] LPIC 2
+- [ ] LPIC 3
+  - [ ] LPIC 3 - Security
+  - [ ] LPIC 3 - Virtualization e Containerization
+  - [ ] LPIC 3 - High Availability and Storage Clusters
 
 ### Terraform
 
-- [ ]
+- [ ] HashiCorp Certified: Terraform Associate
+
+## Observabilidade
+
+- [ ] OpenTelemetry Certified Associate (OTCA)
+Pesquisar certificacoes grafana
