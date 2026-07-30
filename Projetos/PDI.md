@@ -16,7 +16,7 @@
 
 ### AWS
 
-- [ ]Practitioner
+- [ ] Practitioner
   - [x] AWS Cloud Practitioner - 2023
   - [ ] AWS AI Practitioner
 - [ ] Associate
@@ -48,5 +48,5 @@
 
 ## Observabilidade
 
-- [ ] OpenTelemetry Certified Associate (OTCA)
+- [ ] OpenTelemetry Certified Associate (OTCA)  
 Pesquisar certificacoes grafana
