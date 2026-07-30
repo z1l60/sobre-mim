@@ -26,7 +26,7 @@
 - [ ] Professional
   - [ ] DevOps Engineer
   - [ ] Solutions Architect
- - [ ] Specialty
+- [ ] Specialty
   - [ ] Security
   - [ ] Advanced Networking
 
