@@ -11,6 +11,7 @@
 
 - [x] Graduação - Analise e Desenvolvimento de Sistemas
 - [ ] Pós-Graduação - DevOps
+- [ ] Pós-Graduação - Redes
 
 ## Certificacoes
 
