@@ -59,41 +59,25 @@
   ↓
   Banco de Dados
 
-  #### Com fila
+#### Com fila
 
   Internet
-
-↓
-
-Route53
-
-↓
-
-ALB
-
-↓
-
-Ingress
-
-↓
-
-Service
-
-↓
-
-Pod(API)
-
-↓
-
-SQS
-
-↓
-
-Worker
-
-↓
-
-Banco
+  ↓
+  Route53
+  ↓
+  ALB
+  ↓
+  Ingress
+  ↓
+  Service
+  ↓
+  Pod(API)
+  ↓
+  SQS
+  ↓
+  Worker
+  ↓
+  Banco
 
 ## IAC
 
