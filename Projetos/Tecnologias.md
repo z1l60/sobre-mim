@@ -3,6 +3,12 @@
 ## Orquestração de Containers
 
 Kubernetes
+  Node
+    ControlPlane
+    Worker
+  Pod
+  Deployment
+  Stat
 
 ## CI/CD
 
