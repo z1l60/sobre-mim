@@ -29,6 +29,10 @@ Terraform
 Ansible  
 Helm  
 
+## GitOps
+
+ArgoCD
+
 ## Observabilidade
 
 Stack Grafana Labs
