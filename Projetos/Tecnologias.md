@@ -21,7 +21,8 @@ IAM
 Secrets Manager    
 CloudWatch  
 Lambda  
-EventBridge Scheduler
+EventBridge Scheduler  
+SQS/Kafka(+ ou -)  
 
 ## IAC
 
