@@ -45,30 +45,19 @@
 
 ### Arquitetura Simples
 
-  -Usuário
+  Usuário
   ↓
-
-DNS (Route53)
-
-↓
-
-ALB
-
-↓
-
-Ingress Controller
-
-↓
-
-Service
-
-↓
-
-Pod
-
-↓
-
-Banco de Dados
+  DNS (Route53)
+  ↓
+  ALB
+  ↓
+  Ingress Controller
+  ↓
+  Service
+  ↓
+  Pod
+  ↓
+  Banco de Dados
 
 ## IAC
 
