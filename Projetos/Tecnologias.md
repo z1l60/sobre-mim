@@ -2,7 +2,9 @@
 
 ## Containers
 
-Docker
+- Docker
+  - Dockerfile
+  - Registry(ECR, DockerHub)  
 
 ## Orquestração de Containers
 
@@ -40,6 +42,33 @@ Docker
 - Lambda
 - EventBridge Scheduler
 - SQS/Kafka(+ ou -)
+
+### Arquitetura Simples
+
+  -Usuário
+  ↓
+
+DNS (Route53)
+
+↓
+
+ALB
+
+↓
+
+Ingress Controller
+
+↓
+
+Service
+
+↓
+
+Pod
+
+↓
+
+Banco de Dados
 
 ## IAC
 
