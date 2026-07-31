@@ -15,10 +15,13 @@ Github Actions
 EKS  
 EC2  
 ECS  
+Redes(VPC, Subnets, SGs)  
 S3  
 IAM  
-Secrets Manager  
-Redes(VPC, Subnets, SGs)  
+Secrets Manager    
+CloudWatch  
+Lambda  
+EventBridge Scheduler
 
 ## IAC
 
