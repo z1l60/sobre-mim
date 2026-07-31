@@ -22,9 +22,9 @@ Redes(VPC, Subnets, SGs)
 
 ## IAC
 
-Terraform
-Ansible
-Helm
+Terraform  
+Ansible  
+Helm  
 
 ## Observabilidade
 
