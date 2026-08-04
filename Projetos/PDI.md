@@ -21,15 +21,15 @@
 
 - [ ] Practitioner
   - [x] AWS Cloud Practitioner - 2023
-  - [ ] AWS AI Practitioner
+  - [ ] AWS AI Practitioner - 
 - [ ] Associate
-  - [ ] AWS CloudOps Engineer
+  - [ ] AWS CloudOps Engineer -  1 na ordem
   - [ ] AWS Solutions Architect
 - [ ] Professional
   - [ ] DevOps Engineer
   - [ ] Solutions Architect
 - [ ] Specialty
-  - [ ] Security
+  - [ ] Security - segunda na ordem
   - [ ] Advanced Networking
 
 ### Kubernetes(CNCF)
