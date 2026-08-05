@@ -14,7 +14,7 @@ Esse arquivo tem o intuito de servir de controle para minha pós em DevOps dentr
     - [ ] Introdução a Orientação a Objetos em C++
         - [x] Introdução
         - [x] Módulo 1
-        - [ ] Módulo 2
+        - [x] Módulo 2
         - [ ] Módulo 3
         - [ ] Módulo 4
     - [ ] Herança em C++
