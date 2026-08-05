@@ -16,7 +16,7 @@ Esse arquivo tem o intuito de servir de controle para minha pós em DevOps dentr
         - [x] Módulo 1
         - [x] Módulo 2
         - [x] Módulo 3
-        - [ ] Módulo 4
+        - [x] Módulo 4
     - [ ] Herança em C++
     - [ ] Polimorfismo em C++
 - [ ] Projetos de Software: Buscando Entregas de Sucesso
