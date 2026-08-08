@@ -1,6 +1,8 @@
 # Zildo Cesar Borcathe
 
-Curioso profissional que se diz DevOps, esta página vai te mostrar quem eu sou e te fazer entender melhor o que eu busco e como podemos nos ajudar mutuamente.
+Antes de falar sobre tecnologia, DevOps e Cloud, acho justo você conhecer um pouco da pessoa por trás disso tudo.
+
+Sou alguém curioso, apaixonado por aprender e que gosta de entender como as coisas funcionam. Esta página é um pouco sobre quem eu sou, o que me move, o que gosto de fazer e, principalmente, o que busco para minha trajetória profissional.
 
 Sou cristão. Minha fé está baseada nos ensinamentos de Jesus e em tudo aquilo que Ele ensinou. Sou ativo na minha comunidade de fé e sempre busco aprender cada vez mais sobre tudo aquilo que Ele nos deixou como direcionamento.
 
