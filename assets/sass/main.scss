@@ -700,6 +700,26 @@
 		}
 	}
 
+	.work-cards {
+		> div {
+			display: flex;
+		}
+
+		.box {
+			width: 100%;
+		}
+	}
+
+	.experience-cards {
+		> div {
+			display: flex;
+		}
+
+		.box {
+			width: 100%;
+		}
+	}
+
 /* Icons */
 
 	.icon {
@@ -734,6 +754,22 @@
 
 			&:before {
 				font-size: 6em;
+			}
+		}
+
+		&.technology-icon {
+			img {
+				display: block;
+				width: 6em;
+				height: 6em;
+				margin: 0 auto;
+				object-fit: contain;
+			}
+		}
+
+		&.github-actions-icon {
+			img {
+				filter: brightness(0);
 			}
 		}
 	}
