@@ -177,23 +177,25 @@
 					</header>
 					<div class="row">
 						<div class="col-12">
-							<form method="post" action="https://formspree.io/f/mrpzeayp">
+							<div data-fs-success role="status">Mensagem enviada com sucesso! Em breve entrarei em contato.</div>
+							<div data-fs-error role="alert">Não foi possível enviar a mensagem. Tente novamente.</div>
+							<form id="contact-form" method="post" action="https://formspree.io/f/mrpzeayp">
 								<div class="row">
 									<div class="col-6 col-12-small">
-										<input type="text" name="name" id="name" placeholder="Nome" autocomplete="name" required />
+										<input type="text" name="name" id="name" placeholder="Nome" autocomplete="name" data-fs-field required />
 									</div>
 									<div class="col-6 col-12-small">
-										<input type="email" name="email" id="email" placeholder="E-mail" autocomplete="email" required />
+										<input type="email" name="email" id="email" placeholder="E-mail" autocomplete="email" data-fs-field required />
 									</div>
 									<div class="col-12">
-										<input type="text" name="subject" id="subject" placeholder="Assunto" required />
+										<input type="text" name="subject" id="subject" placeholder="Assunto" data-fs-field required />
 									</div>
 									<div class="col-12">
-										<textarea name="message" id="message" placeholder="Mensagem" required></textarea>
+										<textarea name="message" id="message" placeholder="Mensagem" data-fs-field required></textarea>
 									</div>
 									<div class="col-12">
 										<ul class="actions">
-											<li><input type="submit" value="Enviar mensagem" /></li>
+											<li><input type="submit" value="Enviar mensagem" data-fs-submit-btn /></li>
 											<li><input type="reset" value="Limpar formulário" class="alt" /></li>
 										</ul>
 									</div>
@@ -216,6 +218,13 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script>
+				window.formspree = window.formspree || function () {
+					(formspree.q = formspree.q || []).push(arguments);
+				};
+				formspree('initForm', { formElement: '#contact-form', formId: 'mrpzeayp' });
+			</script>
+			<script src="https://unpkg.com/@formspree/ajax@1" defer></script>
 
 	</body>
 </html>
